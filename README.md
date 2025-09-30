@@ -1,6 +1,8 @@
 # Strengthening Global Network Security with Palo Alto Prisma Access SASE  
 ### Case Study: JAT Holdings PLC  
-**Role:** Lead Network & Security Engineer (AcSys Networks)  
+<p>
+  <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
+</p>
 ---
 
 🔗 [JAT Holdings PLC Website](https://jatholdings.com)  
@@ -64,14 +66,6 @@ We implemented **Palo Alto Prisma Access SASE**, a **cloud-delivered security fr
 
 ---
 
-## 🖼️ Repository Contents
-- `diagrams/topology.png` → Prisma Access SASE design for JAT Holdings.  
-- `configs/` → Sanitized configuration snippets.  
-- `automation/` → Example Ansible/Terraform templates for automation.  
-- `docs/runbook.md` → Change procedure and rollback plan.  
-- `lab/test-plan.md` → User validation and connectivity testing steps.  
-
----
 
 ## 🏆 Recognition
 - Strengthened **cybersecurity posture** during a period of global business expansion.  
