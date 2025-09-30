@@ -1,6 +1,9 @@
 # Strengthening Global Network Security with Palo Alto Prisma Access SASE  
 ### Case Study: JAT Holdings PLC  
 **Role:** Lead Network & Security Engineer (AcSys Networks)  
+---
+
+🔗 [JAT Holdings PLC Website](https://jatholdings.com)  
 
 ---
 
